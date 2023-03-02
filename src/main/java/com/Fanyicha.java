@@ -16,6 +16,7 @@ public class Fanyicha {
         System.out.println("hot-fix git4");
         System.out.println("fanyichacha");
          System.out.println("daadad");
+         System.out.println("gitee");
 
     }
 }
