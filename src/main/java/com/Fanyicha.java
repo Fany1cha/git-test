@@ -14,5 +14,6 @@ public class Fanyicha {
         System.out.println("hello git4");
         System.out.println("master");
         System.out.println("hot-fix git4");
+        System.out.println("fanyichacha");
     }
 }
